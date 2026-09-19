@@ -60,7 +60,7 @@ Não é necessário instalar nada — o projeto é 100% estático.
 
 ## 🎥 Vídeo de apresentação
 
-`[adicionar link do vídeo aqui — YouTube não listado ou Google Drive]`
+https://drive.google.com/file/d/1x8WK5i16abeNLtlGSaQWoN2n82D0FVi_/view?usp=sharing
 
 ## 👤 Autor
 
